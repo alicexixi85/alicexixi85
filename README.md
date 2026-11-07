@@ -6,7 +6,7 @@ I build deterministic AI systems, production Model Context Protocol (MCP) server
 
 Instead of building fragile prompt wrappers that hallucinate metrics, my work focuses on evidence-backed engineering, stateless edge architectures, and multi-agent workflows governed by strict programmatic quality gates.
 
-## Live Production Systems ([https://usethelever.com](https://usethelever.com))
+## Live Production Systems ([replay.usethelever.com](https://replay.usethelever.com))
 
 ### 1. GEO & SEO Readiness MCP Server 2.1 ([`alicexixi85/geo-seo-mcp-pro`](https://github.com/alicexixi85/geo-seo-mcp-pro))
 A local-first Python `stdio` MCP server and 4-page A4 white-label PDF audit engine. Evaluates RFC 9309 `robots.txt` rules across 6 AI search/training crawlers (`OAI-SearchBot`, `PerplexityBot`, `Claude-SearchBot`, `GPTBot`, `ClaudeBot`, `Google-Extended`), validates `/llms.txt`, extracts SPA JSON-LD via 2-second headless Chromium DOM observation, and enforces comparability circuit breakers.
@@ -35,4 +35,4 @@ A 75-file bilingual decision-support MCP/Skill utilizing 6-Dimension Constraint 
 - **Custom MCP Server & Multi-Agent Pipeline** development for enterprises and agencies
 - **Strategic partnerships & B2B licensing**
 - **Contact**: `merciai@agent.qq.com` / `alicechendejun@gmail.com`
-- **Portfolio**: [https://usethelever.com](https://usethelever.com) | **Machine Index**: [https://usethelever.com/llms.txt](https://usethelever.com/llms.txt)
+- **Portfolio**: [https://replay.usethelever.com](https://replay.usethelever.com) | **Market Dashboard**: [https://signal.usethelever.com](https://signal.usethelever.com)
