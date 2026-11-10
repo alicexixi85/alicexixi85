@@ -9,26 +9,26 @@ Instead of building fragile prompt wrappers that hallucinate metrics, my work fo
 ## Live Production Systems ([replay.usethelever.com](https://replay.usethelever.com))
 
 ### 1. GEO & SEO Readiness MCP Server 2.1 ([`alicexixi85/geo-seo-mcp-pro`](https://github.com/alicexixi85/geo-seo-mcp-pro))
-A local-first Python `stdio` MCP server and 4-page A4 white-label PDF audit engine. Evaluates RFC 9309 `robots.txt` rules across 6 AI search/training crawlers (`OAI-SearchBot`, `PerplexityBot`, `Claude-SearchBot`, `GPTBot`, `ClaudeBot`, `Google-Extended`), validates `/llms.txt`, extracts SPA JSON-LD via 2-second headless Chromium DOM observation, and enforces comparability circuit breakers.
-- **Sample 4-Page Audit Report & Free Probe**: [https://github.com/alicexixi85/geo-seo-mcp-pro](https://github.com/alicexixi85/geo-seo-mcp-pro)
-- **Commercial Source Package ($49 Solo / $129 Agency White-Label)**: [https://dejunchen770231.gumroad.com/l/geo-seo-mcp-pro](https://dejunchen770231.gumroad.com/l/geo-seo-mcp-pro)
+Open-source, zero-dependency `stdio` MCP server that checks whether a site can be read and cited by AI search engines: `robots.txt` rules for AI search vs. training crawlers, `/llms.txt`, JSON-LD, canonical tags and sitemaps. A paid 2.1 edition adds SPA rendering, competitor comparison and white-label PDF reports.
+- **Free MCP server (MIT)**: [https://github.com/alicexixi85/geo-seo-mcp-pro](https://github.com/alicexixi85/geo-seo-mcp-pro)
+- **Commercial edition ($49 Solo / $129 Agency)**: [https://dejunchen770231.gumroad.com/l/geo-seo-mcp-pro](https://dejunchen770231.gumroad.com/l/geo-seo-mcp-pro)
 
-### 2. Modaoshi — U.S. Stock Bar-by-Bar Replay Trainer
-A browser-based historical trading decision simulator pre-loaded with 88 classic setups and 3,999 U.S. equities, built on Cloudflare Pages/Functions with stateless license verification.
+### 2. Whetstone (Modaoshi) — U.S. Stock Bar-by-Bar Replay Trainer
+A browser-based blind replay trainer for U.S. stocks: hide the ticker and future bars, commit entry, stop and size, then reveal. Built on Cloudflare Pages/Functions.
 - **Live Web App**: [https://replay.usethelever.com/mds/en/](https://replay.usethelever.com/mds/en/)
 - **Free Trial**: [https://replay.usethelever.com/mds/en/trial](https://replay.usethelever.com/mds/en/trial)
-- **Access Passes ($29/mo or $199/yr)**: [https://dejunchen770231.gumroad.com/l/modaoshi-us-replay-annual](https://dejunchen770231.gumroad.com/l/modaoshi-us-replay-annual)
+- **Access**: [$29/month](https://dejunchen770231.gumroad.com/l/modaoshi-us-replay-monthly) or [$199 for 12 months](https://dejunchen770231.gumroad.com/l/modaoshi-us-replay-annual)
 
 ### 3. U.S. Market Regime Traffic Light Dashboard ([`alicexixi85/us-market-regime-mcp`](https://github.com/alicexixi85/us-market-regime-mcp))
 An automated daily end-of-day macro risk engine synthesizing QQQ trend structure, VIX volatility ratios, SMH relative strength, and 25-day institutional distribution counts.
 - **Live Dashboard**: [https://signal.usethelever.com](https://signal.usethelever.com)
-- **MCP Connector & TradingView Pine v6 HUD**: [https://github.com/alicexixi85/us-market-regime-mcp](https://github.com/alicexixi85/us-market-regime-mcp)
+- **Open-source MCP server & TradingView Pine v6 HUD**: [https://github.com/alicexixi85/us-market-regime-mcp](https://github.com/alicexixi85/us-market-regime-mcp)
 - **Subscription ($19/mo or $149/yr)**: [https://dejunchen770231.gumroad.com/l/awqqfc](https://dejunchen770231.gumroad.com/l/awqqfc)
 
 ### 4. WDI — Women's Decision Intelligence Skill & MCP ([`alicexixi85/wdi-decision-mcp`](https://github.com/alicexixi85/wdi-decision-mcp))
-A 75-file bilingual decision-support MCP/Skill utilizing 6-Dimension Constraint Accounting and 4-Tier Evidence Grading for high-stakes career, compensation, and financial sovereignty crossroads.
-- **Open-Source Preview & Lite Prompt**: [https://github.com/alicexixi85/wdi-decision-mcp](https://github.com/alicexixi85/wdi-decision-mcp)
-- **Download Full 75-File WDI Framework ($35 One-Time)**: [https://dejunchen770231.gumroad.com/l/wdi-womens-decision-intelligence](https://dejunchen770231.gumroad.com/l/wdi-womens-decision-intelligence)
+Open-source MCP server for structuring high-stakes career and life decisions: cash-runway math, evidence grading (KNOWN / ASSUMED / UNKNOWN / SYNTHETIC) and six-dimension option comparison. The paid WDI 2.4.3 toolkit is a 75-file bilingual skill package.
+- **Free MCP server (MIT)**: [https://github.com/alicexixi85/wdi-decision-mcp](https://github.com/alicexixi85/wdi-decision-mcp)
+- **WDI 2.4.3 toolkit ($35 one-time)**: [https://dejunchen770231.gumroad.com/l/wdi-womens-decision-intelligence](https://dejunchen770231.gumroad.com/l/wdi-womens-decision-intelligence)
 
 ## Open To
 - **Principal AI Workflow Architect / AI Product Lead / Technical Showrunner** roles
