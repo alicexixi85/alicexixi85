@@ -10,8 +10,8 @@ I build deterministic AI systems, production Model Context Protocol (MCP) server
 Open-source MCP server (Remote Streamable HTTP + Python `stdio`) that checks whether a site can be crawled and cited by AI search engines: `robots.txt` rules for AI search vs. training crawlers, `/llms.txt`, SSR JSON-LD, canonical tags, and sitemaps.
 - **Zero-Install Remote MCP**: `https://mcp.usethelever.com/geo-audit/mcp`
 - **Free Browser Checker**: [https://usethelever.com/tools/ai-crawler-checker](https://usethelever.com/tools/ai-crawler-checker)
-- **Quick-Start Kit ($9)**: [https://dejunchen770231.gumroad.com/l/geo-audit-starter](https://dejunchen770231.gumroad.com/l/geo-audit-starter)
-- **v2.2 Pro Cross-Platform Suite ($49 Solo / $129 Agency — Windows/macOS/Linux, Citation Blocker Detector, 8 Hosted Platforms & 5-File Client Patch Kit)**: [https://dejunchen770231.gumroad.com/l/geo-seo-mcp-pro](https://dejunchen770231.gumroad.com/l/geo-seo-mcp-pro)
+- **Quick-Start Kit ($9)**: [https://leverailab.gumroad.com/l/geo-audit-starter](https://leverailab.gumroad.com/l/geo-audit-starter)
+- **v2.2 Pro Cross-Platform Suite ($49 Solo / $129 Agency — Windows/macOS/Linux, Citation Blocker Detector, 8 Hosted Platforms & 5-File Client Patch Kit)**: [https://leverailab.gumroad.com/l/geo-seo-mcp-pro](https://leverailab.gumroad.com/l/geo-seo-mcp-pro)
 
 ### 2. Whetstone Risk Lab — Blind Chart Replay & Prop Firm Drawdown Discipline ([`en.usethelever.com`](https://en.usethelever.com/))
 A browser-based blind replay trainer for U.S. stocks: hide ticker identity and future bars, commit entry, stop, and R-multiple size, then audit execution without hindsight bias.
@@ -28,7 +28,7 @@ A browser-based blind replay trainer for U.S. stocks: hide ticker identity and f
 ### 4. WDI — Women's Decision Intelligence Skill & MCP ([`alicexixi85/wdi-decision-mcp`](https://github.com/alicexixi85/wdi-decision-mcp))
 Local-only Python `stdio` MCP server for structuring high-stakes career and life decisions: cash-runway math, 4-tier evidence grading (`KNOWN` / `ASSUMED` / `UNKNOWN` / `SYNTHETIC`), and 6-dimension option comparison.
 - **Free MCP Server & Lite Prompt (MIT)**: [https://github.com/alicexixi85/wdi-decision-mcp](https://github.com/alicexixi85/wdi-decision-mcp)
-- **WDI 2.4.3 75-File Bilingual Toolkit ($35 one-time)**: [https://dejunchen770231.gumroad.com/l/wdi-womens-decision-intelligence](https://dejunchen770231.gumroad.com/l/wdi-womens-decision-intelligence)
+- **WDI 2.4.3 75-File Bilingual Toolkit ($35 one-time)**: [https://leverailab.gumroad.com/l/wdi-womens-decision-intelligence](https://leverailab.gumroad.com/l/wdi-womens-decision-intelligence)
 
 ## Contact
 - **Support & Inquiries**: `support@usethelever.com`
