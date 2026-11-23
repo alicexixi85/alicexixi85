@@ -34,5 +34,5 @@ Open-source MCP server for structuring high-stakes career and life decisions: ca
 - **Principal AI Workflow Architect / AI Product Lead / Technical Showrunner** roles
 - **Custom MCP Server & Multi-Agent Pipeline** development for enterprises and agencies
 - **Strategic partnerships & B2B licensing**
-- **Contact**: `merciai@agent.qq.com` / `alicechendejun@gmail.com`
+- **Contact**: `support@usethelever.com` / `alicechendejun@gmail.com`
 - **Portfolio**: [https://replay.usethelever.com](https://replay.usethelever.com) | **Market Dashboard**: [https://signal.usethelever.com](https://signal.usethelever.com)
