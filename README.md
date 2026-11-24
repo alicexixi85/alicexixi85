@@ -10,6 +10,7 @@ Instead of building fragile prompt wrappers that hallucinate metrics, my work fo
 
 ### 1. GEO & SEO Readiness MCP Server 2.1 ([`alicexixi85/geo-seo-mcp-pro`](https://github.com/alicexixi85/geo-seo-mcp-pro))
 Open-source, zero-dependency `stdio` MCP server that checks whether a site can be read and cited by AI search engines: `robots.txt` rules for AI search vs. training crawlers, `/llms.txt`, JSON-LD, canonical tags and sitemaps. A paid 2.1 edition adds SPA rendering, competitor comparison and white-label PDF reports.
+- **Free Live Web Probe (No Sign-In)**: [https://usethelever.com/tools/](https://usethelever.com/tools/)
 - **Free MCP server (MIT)**: [https://github.com/alicexixi85/geo-seo-mcp-pro](https://github.com/alicexixi85/geo-seo-mcp-pro)
 - **Commercial edition ($49 Solo / $129 Agency)**: [https://dejunchen770231.gumroad.com/l/geo-seo-mcp-pro](https://dejunchen770231.gumroad.com/l/geo-seo-mcp-pro)
 
@@ -27,6 +28,7 @@ An automated daily end-of-day macro risk engine synthesizing QQQ trend structure
 
 ### 4. WDI — Women's Decision Intelligence Skill & MCP ([`alicexixi85/wdi-decision-mcp`](https://github.com/alicexixi85/wdi-decision-mcp))
 Open-source MCP server for structuring high-stakes career and life decisions: cash-runway math, evidence grading (KNOWN / ASSUMED / UNKNOWN / SYNTHETIC) and six-dimension option comparison. The paid WDI 2.4.3 toolkit is a 75-file bilingual skill package.
+- **Free Interactive Web Assessment (No Sign-In)**: [https://usethelever.com/wdi/](https://usethelever.com/wdi/)
 - **Free MCP server (MIT)**: [https://github.com/alicexixi85/wdi-decision-mcp](https://github.com/alicexixi85/wdi-decision-mcp)
 - **WDI 2.4.3 toolkit ($35 one-time)**: [https://dejunchen770231.gumroad.com/l/wdi-womens-decision-intelligence](https://dejunchen770231.gumroad.com/l/wdi-womens-decision-intelligence)
 
@@ -34,5 +36,5 @@ Open-source MCP server for structuring high-stakes career and life decisions: ca
 - **Principal AI Workflow Architect / AI Product Lead / Technical Showrunner** roles
 - **Custom MCP Server & Multi-Agent Pipeline** development for enterprises and agencies
 - **Strategic partnerships & B2B licensing**
-- **Contact**: `support@usethelever.com` / `alicechendejun@gmail.com`
+- **Contact**: `support@usethelever.com`
 - **Portfolio**: [https://replay.usethelever.com](https://replay.usethelever.com) | **Market Dashboard**: [https://signal.usethelever.com](https://signal.usethelever.com)
