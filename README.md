@@ -1,5 +1,7 @@
 # Dejun Chen | AI Systems Architect & Product Builder (`UseTheLever`)
 
+🌐 **English** | **[🇨🇳 简体中文简介与国内支付宝 SkillPay 货架（无需外币卡）](README_ZH.md)**
+
 **AI Systems Architect & Product Builder | Creator of UseTheLever (Production MCP Servers, FinTech Decision Engines & Multi-Agent AIGC Pipelines) | Python · TypeScript · Cloudflare**
 
 I build deterministic AI systems, production Model Context Protocol (MCP) servers, and commercial web applications that bridge the gap between raw LLM capabilities and reliable business execution.
@@ -13,6 +15,7 @@ Open-source, zero-dependency `stdio` MCP server that checks whether a site can b
 - **Free Live Web Probe (No Sign-In)**: [https://usethelever.com/tools/](https://usethelever.com/tools/)
 - **Free MCP server (MIT)**: [https://github.com/alicexixi85/geo-seo-mcp-pro](https://github.com/alicexixi85/geo-seo-mcp-pro)
 - **Commercial edition ($49 Solo / $129 Agency)**: [https://dejunchen770231.gumroad.com/l/geo-seo-mcp-pro](https://dejunchen770231.gumroad.com/l/geo-seo-mcp-pro)
+- **🇨🇳 国内支付宝购买入口（国内官网版 / 外贸独立站纯中文版）**: [支付宝 AI 付 · 君博AI实战技能工坊](https://skillpay.alipay.com/public/junbo-skills)
 
 ### 2. Whetstone (Modaoshi) — U.S. Stock Bar-by-Bar Replay Trainer
 A browser-based blind replay trainer for U.S. stocks: hide the ticker and future bars, commit entry, stop and size, then reveal. Built on Cloudflare Pages/Functions.
@@ -31,6 +34,7 @@ Open-source MCP server for structuring high-stakes career and life decisions: ca
 - **Free Interactive Web Assessment (No Sign-In)**: [https://usethelever.com/wdi/](https://usethelever.com/wdi/)
 - **Free MCP server (MIT)**: [https://github.com/alicexixi85/wdi-decision-mcp](https://github.com/alicexixi85/wdi-decision-mcp)
 - **WDI 2.4.3 toolkit ($35 one-time)**: [https://dejunchen770231.gumroad.com/l/wdi-womens-decision-intelligence](https://dejunchen770231.gumroad.com/l/wdi-womens-decision-intelligence)
+- **🇨🇳 国内支付宝购买入口（纯中文国内版 v2.5）**: [支付宝 AI 付 · 君博AI实战技能工坊](https://skillpay.alipay.com/public/junbo-skills)
 
 ## Open To
 - **Principal AI Workflow Architect / AI Product Lead / Technical Showrunner** roles
